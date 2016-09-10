@@ -10,4 +10,14 @@ a:hover {
 
 body{
   font-family: 'Raleway', sans-serif;
+  padding: 5%;
+  background-color: #000;
+}
+
+img:hover{
+  color: #ccc;
+}
+
+div.navbar{
+  height: 100%;
 }
